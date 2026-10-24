@@ -279,11 +279,11 @@ The dashboard and analysis provide a foundation for further work, such as demand
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Nihad Abdul Shukoor E K**
 
 MCA Student | Aspiring Data Analyst
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/nihad-777)
 
 ## 📄 License
 
