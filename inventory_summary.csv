@@ -1,0 +1,7 @@
+Metric,Value
+Total products analyzed,20.0
+Products requiring reorder,18.0
+Products with missing closing stock,1.0
+Products with missing reorder level,1.0
+Products with missing inventory value,1.0
+Total known inventory value,0.0

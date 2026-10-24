@@ -1,0 +1,7 @@
+dataset,issue,action_taken,records_affected,status
+Sales,Exact duplicate rows,Removed exact duplicates,81,Completed
+Sales,Inconsistent text,Trimmed whitespace and standardized capitalization,See original inspection,Completed
+Sales,Missing unit prices,Imputed using product-level median,See missing-value inspection,Completed
+Sales,Missing customer IDs,Labelled Unknown,See original inspection,Completed
+Sales,Missing payment methods,Labelled Unknown,See original inspection,Completed
+Sales,Invalid quantities or prices,Excluded invalid sales lines,12,Completed

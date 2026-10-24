@@ -1,0 +1,21 @@
+product_id,product_name,category,opening_stock_units,units_received,units_sold,closing_stock_units,reorder_level_units,waste_units,unit_cost,supplier,last_restock_date,expected_closing_stock,stock_difference,stock_status,inventory_value
+ESP001,Espresso,Coffee,130,714,1203,0.0,59.0,38.0,22,Fresh Basket,2025-12-24,-397.0,397.0,Reorder Required,0.0
+LAT001,Latte,Coffee,252,669,1188,0.0,39.0,50.0,48,Bean & Co,2025-08-12,-317.0,317.0,Reorder Required,0.0
+CAP001,Cappuccino,Coffee,218,595,1190,,41.0,27.0,44,Bean & Co,2025-10-12,-404.0,,Missing Closing Stock,
+AME001,Americano,Coffee,219,519,1188,0.0,78.0,16.0,28,Daily Harvest,2025-12-27,-466.0,466.0,Reorder Required,0.0
+MOC001,Mocha,Coffee,120,849,1187,0.0,31.0,50.0,58,Bean & Co,2025-12-12,-268.0,268.0,Reorder Required,0.0
+COL001,Cold Brew,Cold Drinks,182,477,1186,0.0,68.0,,52,Fresh Basket,2025-07-12,,,Reorder Required,0.0
+ICE001,Iced Latte,Cold Drinks,229,813,1144,0.0,69.0,21.0,50,Bean & Co,2025-12-31,-123.0,123.0,Reorder Required,0.0
+TEA001,Masala Chai,Tea,143,702,1156,0.0,59.0,3.0,18,Fresh Basket,2025-12-26,-314.0,314.0,Reorder Required,0.0
+GRE001,Green Tea,Tea,255,382,1140,0.0,68.0,18.0,24,Bean & Co,2025-08-12,-521.0,521.0,Reorder Required,0.0
+HOT001,Hot Chocolate,Hot Drinks,192,360,1147,0.0,27.0,53.0,42,Daily Harvest,2025-08-12,-648.0,648.0,Reorder Required,0.0
+CRO001,Croissant,Bakery,192,756,1159,0.0,44.0,18.0,42,Bean & Co,2025-01-12,-229.0,229.0,Reorder Required,0.0
+MUFF001,Blueberry Muffin,Bakery,203,361,1140,0.0,,53.0,45,Bean & Co,2025-03-12,-629.0,629.0,Missing Reorder Level,0.0
+BRW001,Brownie,Bakery,160,773,1304,0.0,37.0,17.0,48,Bean & Co,2025-12-28,-388.0,388.0,Reorder Required,0.0
+SND001,Veg Sandwich,Food,105,381,1230,0.0,48.0,50.0,72,Daily Harvest,2025-08-12,-794.0,794.0,Reorder Required,0.0
+WRP001,Paneer Wrap,Food,228,802,1229,0.0,72.0,33.0,88,Fresh Basket,2025-12-27,-232.0,232.0,Reorder Required,0.0
+CKE001,Cheesecake,Desserts,174,649,1312,0.0,36.0,15.0,92,Bean & Co,2025-08-12,-504.0,504.0,Reorder Required,0.0
+COO001,Chocolate Cookie,Bakery,151,547,1225,0.0,62.0,21.0,18,Fresh Basket,2025-12-27,-548.0,548.0,Reorder Required,0.0
+BAG001,Bagel,Bakery,141,454,1164,0.0,63.0,41.0,32,Bean & Co,2025-12-19,-610.0,610.0,Reorder Required,0.0
+SMO001,Mango Smoothie,Cold Drinks,221,672,1161,0.0,79.0,37.0,64,Fresh Basket,2025-12-15,-305.0,305.0,Reorder Required,0.0
+FRP001,Fruit Parfait,Food,197,650,1263,0.0,65.0,32.0,68,Bean & Co,2025-12-20,-448.0,448.0,Reorder Required,0.0
